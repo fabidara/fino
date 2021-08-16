@@ -1,0 +1,2 @@
+# fino
+pythonlearnining
